@@ -23,7 +23,7 @@
                 "type": "spotify",
                 "style": "powerline",
                 "powerline_symbol": "\uE0B0",
-                "foreground": "#ffffff",
+                "foreground": "#fafafa",
                 "background": "#1BD760",
                 "properties": {
                   "prefix": "\uF9C6 ",
@@ -37,7 +37,7 @@
             "type": "path",
             "style": "powerline",
             "powerline_symbol": "\uE0B0",
-            "foreground": "#ffffff",
+            "foreground": "#fafafa",
             "background": "#4a87a1",
             "properties": {
               "prefix": " \uE5FF ",
@@ -64,23 +64,12 @@
               }
           },
           {
-            "type": "node",
-            "style": "powerline",
-            "powerline_symbol": "\uE0B0",
-            "foreground": "#ffffff",
-            "background": "#6CA35E",
-            "properties": {
-              "prefix": " \uE718 "
-            }
-          },
-          {
             "type": "root",
             "style": "powerline",
             "powerline_symbol": "\uE0B0",
             "foreground": "#193549",
             "background": "#ffff66"
           }
-          
         ]
       },
       {
